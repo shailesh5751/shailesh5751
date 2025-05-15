@@ -15,10 +15,6 @@ I enjoy building automation tools, optimizing performance, and solving challengi
 - Cloud technologies (AWS basics)  
 - System design and scalable backend architectures
 
-### Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shailesh5751&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shailesh5751&layout=compact&theme=dark)
-
 ## 💞️ Projects
 - [AI-Based Digital Attendance System](https://github.com/shailesh5751/ai_attendance_system) — Full-stack attendance system using Django and OpenCV  
 - [ExpenseTracker](https://github.com/shailesh5751/ExpenseTracker) — MERN stack expense tracker with GraphQL and JWT authentication  
@@ -35,8 +31,6 @@ I enjoy building automation tools, optimizing performance, and solving challengi
 - Email: shaileshmore2004@gmail.com  
 - LinkedIn: https://linkedin.com/in/shailesh-more  
 - GitHub: https://github.com/shailesh5751
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shailesh5751&layout=donut&theme=dark)
 
 > “Strive not to be a success, but rather to be of value.” – Albert Einstein
 
